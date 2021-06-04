@@ -1,0 +1,37 @@
+body {
+    background-color: rgba(43, 44, 87, 0.418);
+}
+
+h1, h2, th {
+    font-family: Poppins, sans-serif;
+}
+
+p, td {
+    font-family: Roboto, sans-serif;
+}
+
+.mono {
+    font-family: "Roboto Mono", monospace;
+    background-color: darkgray;
+}
+
+table {
+    border: 5px solid darkblue;
+    margin: auto;
+}
+
+td, th {
+    border: 2px solid darkblue;
+    padding: 5px;
+}
+h1, p, h2 {
+    text-align: center;
+}
+
+.image {
+    background-image: url(./images/chris-and-judah.jpg);
+    border: 5px solid darkblue;
+    height: 300px;
+    width: 400px;
+    margin: auto;
+}
